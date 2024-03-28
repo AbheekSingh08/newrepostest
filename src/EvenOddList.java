@@ -20,7 +20,7 @@ public class EvenOddList {
                 oddNumbers.add(number);
             }
         }
-
+        //making some changes
         // Print the even and odd numbers
         System.out.println("Even Numbers: " + evenNumbers);
         System.out.println("Odd Numbers: " + oddNumbers);
